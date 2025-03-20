@@ -50,15 +50,6 @@ Ensure that you have the following installed on your machine:
 - [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 - A C# compatible IDE (e.g., Visual Studio, Visual Studio Code)
 
-### Steps to Run
-
-1. **Clone the Repository**:
-
-   First, clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/tatiabolokadze/company-employee-management-system.git
-
 
 ## How to Use
 
